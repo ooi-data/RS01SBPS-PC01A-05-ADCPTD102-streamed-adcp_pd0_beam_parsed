@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SBPS-PC01A-05-ADCPTD102-streamed-adcp_pd0_beam_parsed
 data_stream: RS01SBPS-PC01A-05-ADCPTD102-streamed-adcp_pd0_beam_parsed
 end_date: '2015-12-02T15:38:15.898Z'
-last_updated: '2022-01-22T05:37:49.022705'
+last_updated: '2022-02-09T23:46:33.003989Z'
 start_date: '2014-10-02T14:45:31.140Z'
-status: failed
+status: pending
